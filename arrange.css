@@ -1,0 +1,7 @@
+body{
+  background-image: url("E810h.png");
+  color: blue;
+}
+table, th, td{
+  border: 1px solid red;
+}
